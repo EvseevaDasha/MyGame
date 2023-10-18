@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/kakashi/jump.png</file>
+        <file>resources/kakashi/run0.png</file>
+        <file>resources/kakashi/run1.png</file>
+        <file>resources/chooseHeroImage.jpg</file>
+        <file>resources/cactusMini.png</file>
+        <file>resources/a.jpg</file>
+        <file>resources/b.png</file>
+        <file>resources/icon_right.jpg</file>
+        <file>resources/forest.png</file>
+        <file>resources/gameOver.png</file>
+        <file>resources/cactuss.png</file>
+        <file>resources/icon_left.jpg</file>
+        <file>resources/stone.png</file>
+        <file>resources/cactus.png</file>
+        <file>resources/cat/jump.png</file>
+        <file>resources/cat/run0.png</file>
+        <file>resources/cat/run1.png</file>
+        <file>resources/mr.Cucumber/jump.png</file>
+        <file>resources/mr.Cucumber/run0.png</file>
+        <file>resources/mr.Cucumber/run1.png</file>
+    </qresource>
+</RCC>
